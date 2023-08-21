@@ -1,0 +1,10 @@
+name: outcome
+description: A dart library that provides a functional approach to error handling.
+version: 0.0.1
+repository: https://github.com/elias8/outcome
+
+environment:
+  sdk: ^3.0.5
+
+dev_dependencies:
+  test: ^1.24.6
