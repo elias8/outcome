@@ -1,5 +1,7 @@
 # outcome
 
+[![pub package](https://img.shields.io/pub/v/outcome.svg)](https://pub.dartlang.org/packages/outcome)
+
 A dart library that provides a functional approach to error handling.
 
 ## Installation
